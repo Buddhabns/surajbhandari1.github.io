@@ -22,5 +22,17 @@
                 "E2:D1:50:8F:6B:34:8A:32:CB:2A:D7:4B:73:EA:DF:5D:8F:3C:AC:AE:96:83:F1:13:B7:1F:75:17:F2:31:31:16"
             ]
         }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.kcmit.fragmentexample",
+            "sha256_cert_fingerprints": [
+                "E2:D1:50:8F:6B:34:8A:32:CB:2A:D7:4B:73:EA:DF:5D:8F:3C:AC:AE:96:83:F1:13:B7:1F:75:17:F2:31:31:16"
+            ]
+        }
     }
 ]
